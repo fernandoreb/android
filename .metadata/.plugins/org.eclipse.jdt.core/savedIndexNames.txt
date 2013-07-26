@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+/Users/fernandoguimaraes/Dropbox/repositorios/git/Android/.metadata/.plugins/org.eclipse.jdt.core
+1539094355.index
+2866552604.index
+3357826698.index
+2318466493.index
+2985569921.index
